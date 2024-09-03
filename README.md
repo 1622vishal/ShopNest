@@ -56,7 +56,7 @@ We welcome contributions to ShopNest! If you're interested in contributing, plea
 1. **Fork the repository** to your GitHub account.
 2. **Clone your fork** to your local machine:
    ```bash
-   git clone https://github.com/your-username/CampusOpedia.git
+   git clone https://github.com/1622vishal/ShopNest.git
 
 ## Contact
 
